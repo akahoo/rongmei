@@ -6,6 +6,41 @@
   "description": "",
   "glyphs": [
     {
+      "icon_id": "30946180",
+      "name": "消息",
+      "font_class": "xiaoxi",
+      "unicode": "e642",
+      "unicode_decimal": 58946
+    },
+    {
+      "icon_id": "30908317",
+      "name": "形状",
+      "font_class": "xingzhuang",
+      "unicode": "e640",
+      "unicode_decimal": 58944
+    },
+    {
+      "icon_id": "30908332",
+      "name": "上下",
+      "font_class": "shangxia",
+      "unicode": "e641",
+      "unicode_decimal": 58945
+    },
+    {
+      "icon_id": "30817031",
+      "name": "收藏",
+      "font_class": "shoucang",
+      "unicode": "e62f",
+      "unicode_decimal": 58927
+    },
+    {
+      "icon_id": "30815285",
+      "name": "藏品2",
+      "font_class": "cangpin2",
+      "unicode": "e62b",
+      "unicode_decimal": 58923
+    },
+    {
       "icon_id": "30783871",
       "name": "全部",
       "font_class": "quanbu",

@@ -13,6 +13,26 @@
   -moz-osx-font-smoothing: grayscale;
 }
 
+.icon-xiaoxi:before {
+  content: "\e642";
+}
+
+.icon-xingzhuang:before {
+  content: "\e640";
+}
+
+.icon-shangxia:before {
+  content: "\e641";
+}
+
+.icon-shoucang:before {
+  content: "\e62f";
+}
+
+.icon-cangpin2:before {
+  content: "\e62b";
+}
+
 .icon-quanbu:before {
   content: "\e62a";
 }
